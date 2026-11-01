@@ -5,4 +5,4 @@
 
 ## 1. About Me (the User)
 
-*I am a college student with a learning disability, doing homework at home, with a tight morning routine (up at 7, leave 8:00-8:15, 2-hour commute, workout on arrival around 10)*
+I am a college student with a learning disability, doing homework at home, with a tight morning routine (up at 7, leave 8:00-8:15, 2-hour commute, workout on arrival around 10)
