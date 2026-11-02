@@ -39,4 +39,6 @@ When, after about 60-90 minutes of homework, I get tired, and I take a break by 
 
 **I'll know this is solved when:** I’ll know this is solved when my breaks end within 15 minutes, and I can be in bed by 11 PM at least 5 nights a week.
 
+---
+## 3. Existing Solutions
 
