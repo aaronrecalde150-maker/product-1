@@ -70,4 +70,30 @@ When, after about 60-90 minutes of homework, I get tired, and I take a break by 
 - Message exceptions inside Instagram or TikTok (your urgent messages come through iMessage)
 - Blocking YouTube (you said it doesn’t keep you glued)
 
-- ---
+
+---
+
+## 5. Tech Stack
+
+### Front end
+- **Surface:** Mobile (iPhone)
+- **Tools:** Swift and SwiftUI, plus Apple’s Screen Time tools (Family Controls, Managed Settings, Device Activity)
+- **Why:** The problem happens while I do homework, but the apps I get stuck in are on my iPhone. Only Apple’s Screen Time tools can block other apps, and they’re written in Swift.
+
+### Back end
+| Piece | Choice | Why |
+|---|---|---|
+| Server / API |None|The timer and lock run on my phone, and nothing is sent anywhere else|
+| Data storage |None for the MVP|I only want the lock to work; break history is a Later idea|
+| Outside services (optional) |None|Nothing in the MVP needs one|
+| Hosting / deploy |My own iPhone, installed from Xcode|The app is only for me. Check Apple’s current requirements|
+
+### Architecture sketch
+
+```mermaid
+flowchart LR
+  U[Me: press 'start break'] --> FE[iPhone app (SwiftUI):15-minute timer]
+  FE --> API[Apple Screen Time tools]
+  API --> DB[Instagram and TikToklocked for 1 hour]
+```
+
