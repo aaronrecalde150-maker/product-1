@@ -24,4 +24,4 @@ I am a college student with a learning disability, doing homework at home, with 
 
 ## 2. Problem Statement
 
-**Gut check:**
+**Gut check:** I need my breaks to end within 15 minutes because they have been running 1 hour 30 minutes to 2 hours
