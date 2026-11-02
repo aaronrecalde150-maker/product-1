@@ -92,8 +92,9 @@ When, after about 60-90 minutes of homework, I get tired, and I take a break by 
 
 ```mermaid
 flowchart LR
-  U[Me: press 'start break'] --> FE[iPhone app (SwiftUI):15-minute timer]
-  FE --> API[Apple Screen Time tools]
-  API --> DB[Instagram and TikToklocked for 1 hour]
+  U["Me: press start break"] --> FE["iPhone app in SwiftUI<br/>15-minute timer"]
+  FE --> ST["Apple Screen Time tools"]
+  ST --> L["Instagram and TikTok locked for 1 hour"]
 ```
+
 
