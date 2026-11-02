@@ -47,4 +47,4 @@ When, after about 60-90 minutes of homework, I get tired, and I take a break by 
 |Phone timer|Tells me when time is up; I’ve seen it work for friends|I silence it and go right back to scrolling. It can signal, but it can’t make me stop|
 |Chatbot-made schedule|Gave me clear structure (51 pages of notes, 3 sessions a day for 3 days) and my breaks dropped to about 30 minutes|It only worked because pages are equal-sized. Regular homework is unpredictable, since each problem takes an unknown amount of time, so I never used it again|
 
-
+**The gap:** Neither gets me to actually end a break, and neither gives me structure for work where each problem takes an unknown amount of time.
