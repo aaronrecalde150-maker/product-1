@@ -19,3 +19,8 @@ I am a college student with a learning disability, doing homework at home, with 
 - 💸 Money:none
 - 🔋 Energy:exhausted from late nights
 - 🙂 Joy:stressed from missing my workouts
+
+---
+
+## 2. Problem Statement
+
