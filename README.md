@@ -10,6 +10,6 @@ I am a college student with a learning disability, doing homework at home, with 
 **The last 3 times this happened:**
 
 1. On Wednesday night at home, I started studying for a midterm around 10 PM with no plan, just reading my notes. I took a break near 11 and didn’t get back to studying until near 1 AM. I kept studying until I was too tired to continue, then arrived on campus at 12 instead of 10 and skipped my workout.
-2. 
+2. On another Wednesday, I finished class at 7:40 PM and started studying for a quiz around 8 PM at home. I took a break around 9:30 and didn’t get back to studying until 11. I studied until about 12 AM, woke up late, left late, arrived on campus at 1 PM, and missed my workout.
 3. 
 
