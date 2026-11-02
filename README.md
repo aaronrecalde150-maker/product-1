@@ -27,7 +27,8 @@ I am a college student with a learning disability, doing homework at home, with 
 **Gut check:** I need my breaks to end within 15 minutes because they have been running 1 hour 30 minutes to 2 hours
 
 **Five Whys:**
-1. Why? During the break, nothing tells me to stop, so I only stop when I see how much time has passed.
-2. Why does nothing stop me? The apps (Instagram, TikTok) keep me glued, and time passes without my noticing.
-3. Why do I go to those apps? After 60-90 minutes of reading, writing, or typing I get tired, and the phone is how I ease myself, “anything but hw.”
-4. Why does it keep happening? It’s so routine that I’m desensitized, and I never measured it.
+1. Why do my breaks run 1.5 to 2 hours? Nothing tells me to stop, so I stop only when I see how much time has passed.
+2. Why does nothing stop me? The apps keep me glued, and I lose track of time.
+3. Why do I go to the phone? I get tired after 60-90 minutes and want something easy.
+4. Why do I have no stopping point? I have no clear structure to follow.
+5. Why? My homework is unpredictable, so I can’t break it into equal pieces the way I did with the 51 pages.
