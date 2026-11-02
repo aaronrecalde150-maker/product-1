@@ -32,3 +32,7 @@ I am a college student with a learning disability, doing homework at home, with 
 3. Why do I go to the phone? I get tired after 60-90 minutes and want something easy.
 4. Why do I have no stopping point? I have no clear structure to follow.
 5. Why? My homework is unpredictable, so I can’t break it into equal pieces the way I did with the 51 pages.
+
+**Problem statement:**
+
+When, after about 60-90 minutes of homework, I get tired, and I take a break by going on my phone, I struggle to stop. I only stop when I see how much time has passed. This costs me 1.5-2 hours per long break, late nights, a later wake-up, and a missed workout. This happens because my homework is unpredictable, so I don’t have a clear structure to follow, and it’s easy to get lost in my breaks. Right now I’ve tried a phone timer and a chatbot schedule. The timer didn’t work because I silenced it and went right back to scrolling. The chatbot schedule only worked for the 51 pages of notes, not for regular homework, because each problem takes an unknown amount of time.
