@@ -9,7 +9,7 @@ I am a college student with a learning disability, doing homework at home, with 
 
 **The last 3 times this happened:**
 
-1. 
+1. On Wednesday night at home, I started studying for a midterm around 10 PM with no plan, just reading my notes. I took a break near 11 and didn’t get back to studying until near 1 AM. I kept studying until I was too tired to continue, then arrived on campus at 12 instead of 10 and skipped my workout.
 2. 
 3. 
 
