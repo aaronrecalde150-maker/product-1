@@ -24,3 +24,4 @@ I am a college student with a learning disability, doing homework at home, with 
 
 ## 2. Problem Statement
 
+**Gut check:**
