@@ -48,3 +48,26 @@ When, after about 60-90 minutes of homework, I get tired, and I take a break by 
 |Chatbot-made schedule|Gave me clear structure (51 pages of notes, 3 sessions a day for 3 days) and my breaks dropped to about 30 minutes|It only worked because pages are equal-sized. Regular homework is unpredictable, since each problem takes an unknown amount of time, so I never used it again|
 
 **The gap:** Neither gets me to actually end a break, and neither gives me structure for work where each problem takes an unknown amount of time.
+
+---
+
+## 4. Features & Benefits
+
+| Feature (what it does) | Benefit (how my life gets better) | MVP or Later? |
+|---|---|---|
+|Break timer I start myself, fixed at 15 minutes|My breaks have a clear end instead of running until I notice the time|MVP|
+|Instagram and TikTok lock automatically when the break ends|I can’t go back to the apps that keep me glued, so I return to my homework|MVP|
+|The lock holds for about an hour with no early unlock|I don’t have to rely on willpower at the moment I’m weakest, and I get to bed on time|MVP|
+|“Done for the night” button that unlocks the apps|I can get my apps back when I’m ready for bed, without waiting until morning|Later|
+|Do Not Disturb on, with iMessage allowed through|Notifications don’t start a break I didn’t plan, and urgent messages still reach me|Later|
+
+**MVP:** I press ‘start break,’ a 15-minute timer runs, then Instagram and TikTok lock for one hour with no way to unlock them early.
+
+**Not Doing:**
+- Blocking apps while I’m working (you said only after a break ends)
+- Break history or tracking (you said you just want the lock to work)
+- A back end or any data leaving my phone
+- Message exceptions inside Instagram or TikTok (your urgent messages come through iMessage)
+- Blocking YouTube (you said it doesn’t keep you glued)
+
+- ---
