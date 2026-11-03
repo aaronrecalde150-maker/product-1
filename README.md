@@ -109,3 +109,7 @@ flowchart LR
 - Can I really make the lock impossible to undo early, or can I turn off the permission or delete the app?
 - Do I need Apple’s special permission (an entitlement) to use these tools on my own phone?
 - Is 15 minutes the right number, and does structure alone shorten my breaks?
+
+---
+
+## Demo
