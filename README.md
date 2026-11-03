@@ -15,10 +15,10 @@ I am a college student with a learning disability, doing homework at home, with 
 
 **What it costs me:**
 
-- ⏱️ Time:about 1.5-2 hours per long break (from my last 3 times). I estimate 1-2 hours most days, but I’ve never measured it.
-- 💸 Money:none
-- 🔋 Energy:exhausted from late nights
-- 🙂 Joy:stressed from missing my workouts
+- ⏱️ Time: about 1.5-2 hours per long break (from my last 3 times). I estimate 1-2 hours most days, but I’ve never measured it.
+- 💸 Money: none
+- 🔋 Energy: exhausted from late nights
+- 🙂 Joy: stressed from missing my workouts
 
 ---
 
