@@ -63,6 +63,8 @@ When, after about 60-90 minutes of homework, I get tired, and I take a break by 
 
 **MVP:** I press ‘start break,’ a 15-minute timer runs, then Instagram and TikTok lock for one hour with no way to unlock them early.
 
+**Later:**
+
 **Not Doing:**
 - Blocking apps while I’m working
 - Break history or tracking
