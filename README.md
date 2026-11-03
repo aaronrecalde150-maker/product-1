@@ -64,6 +64,8 @@ When, after about 60-90 minutes of homework, I get tired, and I take a break by 
 **MVP:** I press ‘start break,’ a 15-minute timer runs, then Instagram and TikTok lock for one hour with no way to unlock them early.
 
 **Later:**
+- A “Done for the night” button that unlocks the apps, so I can get them back when I’m ready for bed without waiting until morning.
+- Do Not Disturb on, with iMessage allowed through, so notifications don’t start a break I didn’t plan and urgent messages still reach me.
 
 **Not Doing:**
 - Blocking apps while I’m working
