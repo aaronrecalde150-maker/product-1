@@ -1,5 +1,5 @@
 # product-1
-**Author:** Aaron Recalde · **Course:** CMP 464/343 Product 1 · **Last updated:** November2nd
+**Author:** Aaron Recalde · **Course:** CMP 464/343 Product 1 · **Last updated:** November 2nd
 
 ---
 
