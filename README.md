@@ -31,7 +31,7 @@ I am a college student with a learning disability, doing homework at home, with 
 2. Why does nothing stop me? The apps keep me glued, and I lose track of time.
 3. Why do I go to the phone? I get tired after 60-90 minutes and want something easy.
 4. Why do I have no stopping point? I have no clear structure to follow.
-5. Why? My homework is unpredictable, so I can’t break it into equal pieces the way I did with the 51 pages.
+5. Why do I have no clear structure to follow? My homework is unpredictable, so I can’t break it into equal pieces the way I did with the 51 pages.
 
 **Problem statement:**
 
