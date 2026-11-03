@@ -64,11 +64,11 @@ When, after about 60-90 minutes of homework, I get tired, and I take a break by 
 **MVP:** I press ‘start break,’ a 15-minute timer runs, then Instagram and TikTok lock for one hour with no way to unlock them early.
 
 **Not Doing:**
-- Blocking apps while I’m working (you said only after a break ends)
-- Break history or tracking (you said you just want the lock to work)
+- Blocking apps while I’m working
+- Break history or tracking
 - A back end or any data leaving my phone
-- Message exceptions inside Instagram or TikTok (your urgent messages come through iMessage)
-- Blocking YouTube (you said it doesn’t keep you glued)
+- Message exceptions inside Instagram or TikTok
+- Blocking YouTube
 
 
 ---
