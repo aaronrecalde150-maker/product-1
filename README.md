@@ -37,7 +37,7 @@ I am a college student with a learning disability, doing homework at home, with 
 
 When, after about 60-90 minutes of homework, I get tired, and I take a break by going on my phone, I struggle to stop. I only stop when I see how much time has passed. This costs me 1.5-2 hours per long break, late nights, a later wake-up, and a missed workout. This happens because my homework is unpredictable, so I don’t have a clear structure to follow, and it’s easy to get lost in my breaks. Right now I’ve tried a phone timer and a chatbot schedule. The timer didn’t work because I silenced it and went right back to scrolling. The chatbot schedule only worked for the 51 pages of notes, not for regular homework, because each problem takes an unknown amount of time.
 
-**I'll know this is solved when:** I’ll know this is solved when my breaks end within 15 minutes, and I can be in bed by 11 PM at least 5 nights a week.
+**I'll know this is solved when:** when my breaks end within 15 minutes, and I can be in bed by 11 PM at least 5 nights a week.
 
 ---
 ## 3. Existing Solutions
