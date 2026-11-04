@@ -46,7 +46,7 @@ struct ContentView: View {
             if secondsLeft <= 0 {
                 secondsLeft = 0
                 isRunning = false
-                // Later: this is where the Screen Time lock will start.
+
             }
         }
     }
